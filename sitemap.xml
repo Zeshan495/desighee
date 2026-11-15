@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://desighee.com.pk/</loc>
+    <lastmod>2026-11-15</lastmod>
+    <image:image><image:loc>https://desighee.com.pk/ghee.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://desighee.com.pk/blog/</loc>
+    <lastmod>2026-11-15</lastmod>
+    <image:image><image:loc>https://desighee.com.pk/ghee.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://desighee.com.pk/blog/how-to-check-pure-desi-ghee.html</loc>
+    <lastmod>2026-11-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-PK" href="https://desighee.com.pk/blog/how-to-check-pure-desi-ghee.html"/>
+    <xhtml:link rel="alternate" hreflang="ur-PK" href="https://desighee.com.pk/blog/khalis-desi-ghee-ki-pehchan.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://desighee.com.pk/blog/how-to-check-pure-desi-ghee.html"/>
+    <image:image><image:loc>https://desighee.com.pk/ghee.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://desighee.com.pk/blog/khalis-desi-ghee-ki-pehchan.html</loc>
+    <lastmod>2026-11-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-PK" href="https://desighee.com.pk/blog/how-to-check-pure-desi-ghee.html"/>
+    <xhtml:link rel="alternate" hreflang="ur-PK" href="https://desighee.com.pk/blog/khalis-desi-ghee-ki-pehchan.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://desighee.com.pk/blog/how-to-check-pure-desi-ghee.html"/>
+    <image:image><image:loc>https://desighee.com.pk/ghee.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://desighee.com.pk/blog/desi-ghee-vs-banaspati.html</loc>
+    <lastmod>2026-11-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-PK" href="https://desighee.com.pk/blog/desi-ghee-vs-banaspati.html"/>
+    <xhtml:link rel="alternate" hreflang="ur-PK" href="https://desighee.com.pk/blog/desi-ghee-aur-banaspati-mein-farq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://desighee.com.pk/blog/desi-ghee-vs-banaspati.html"/>
+    <image:image><image:loc>https://desighee.com.pk/ghee.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://desighee.com.pk/blog/desi-ghee-aur-banaspati-mein-farq.html</loc>
+    <lastmod>2026-11-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-PK" href="https://desighee.com.pk/blog/desi-ghee-vs-banaspati.html"/>
+    <xhtml:link rel="alternate" hreflang="ur-PK" href="https://desighee.com.pk/blog/desi-ghee-aur-banaspati-mein-farq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://desighee.com.pk/blog/desi-ghee-vs-banaspati.html"/>
+    <image:image><image:loc>https://desighee.com.pk/ghee.jpg</image:loc></image:image>
+  </url>
+</urlset>
